@@ -1,0 +1,2 @@
+Hi, i created new instance with name of Git.
+This instance is didicated to GIT.
