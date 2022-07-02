@@ -1,2 +1,3 @@
 Hi this is newjob2.
 find all
+Successfully completed passwd setup.
